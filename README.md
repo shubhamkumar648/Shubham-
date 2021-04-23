@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PhotoGram](https://photoaddkaro.netlify.app)
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **React Js**
 
 - 👨‍💻 All of my projects are available at [https://shubhamkumar-portfolio.netlify.app](https://shubhamkumar-portfolio.netlify.app)
 
