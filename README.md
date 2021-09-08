@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shubhamkumar-portfolio.netlify.app](https://shubhamkumar-portfolio.netlify.app)
 
-- 💬 Ask me about **Reactjs,Javascript**
+- 💬 Ask me about **Html,Css,Javascript**
 
 - 📫 How to reach me **shubhamkumar96@gmail.com**
 
